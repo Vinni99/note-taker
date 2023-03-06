@@ -1,8 +1,8 @@
-# note-taker
+# note-taker🚀
 
 Express.js Challenge: Note Taker
 
- ## Description
+ ## Description🏄‍♂️
 
 This application can be used to write, save, and delete notes. This application uses an express backend and save and retrieve note data from a JSON file.
     
@@ -19,7 +19,7 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-## Acceptance Criteria
+## Acceptance Criteria 
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -35,7 +35,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
-## Installation
+## Installation 💾
 
 To install necessary dependencies, run the following command:
 
@@ -43,7 +43,7 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 
-## Usage
+## Usage 🔍
 
 To use this application, run the following command:
 
@@ -51,15 +51,15 @@ To use this application, run the following command:
 node server.js
 ```
 
-## License
+## License ✅
 
 This project is licensed under the MIT license.
 
-## Contributing
+## Contributing ✨
 
 If you would like to contribute to this project, please contact me via email or GitHub.
 
 
 Vinícius Teixeira | [GitHub](https://github.com/Vinni99)
 
-heroku link:
+heroku link: <https://agile-escarpment-45990.herokuapp.com/>
